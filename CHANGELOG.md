@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- badges for changelog, maven repo central and license
 - dependencies for project [fj-lib](https://github.com/fugerit-org/fj-lib) , version property : 'fj-version'
 - dependencies for project [fj-doc](https://github.com/fugerit-org/fj-doc) , version property : 'fj-doc-version'
 - dependencies for project [fj-daogen](https://github.com/fugerit-org/fj-daogen) , version property : 'fj-daogen-version'
