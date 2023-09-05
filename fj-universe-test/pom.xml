@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>0.1.1</version>
+		<version>0.2.0</version>
 	</parent>
 
 	<artifactId>fj-universe-test</artifactId>
@@ -73,10 +73,6 @@
 		<dependency>
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-doc-mod-poi</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.fugerit.java</groupId>
-			<artifactId>fj-doc-mod-poi5</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.fugerit.java</groupId>
