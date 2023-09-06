@@ -27,8 +27,8 @@ public class TestGenerateReadme {
 				String name = section.getName();
 				writer.println( MessageFormat.format( "### [{0}](src/docs/versions-{0}.md) version properties", name ) );
 				writer.println();
-				writer.println( "| pom property | repository | repo central |" );
-				writer.println( "|--------------|------------|--------------|" );
+				writer.println( "| pom property | repository | repo central | quality gate |" );
+				writer.println( "|--------------|------------|--------------|--------------|" );
 				for ( String module : section.getItems() ) {
 					String propertyBase = module;
 					if ( module.equals( "fj-lib" ) ) {
@@ -36,7 +36,9 @@ public class TestGenerateReadme {
 					}
 					log.info( "current {} - {} - {}", name, module, propertyBase );
 					writer.println( MessageFormat.format( 
-							"| [{0}-version](src/docs/versions-core.md#{0}-version) |https://github.com/fugerit-org/{1} | [![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/{0}.svg)](https://mvnrepository.com/artifact/org.fugerit.java/{0})|", 
+							"| [{1}-version](src/docs/versions-core.md#{1}-version) | [fugerit-org/{0}](https://github.com/fugerit-org/{0}) | "
+							+ "[![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/{0}.svg)](https://mvnrepository.com/artifact/org.fugerit.java/{0}) | "
+							+ "[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_{0}&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fugerit-org_{0})", 
 							module, propertyBase ) );
 				}
 				writer.println();
