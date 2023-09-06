@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- documentation on pom version properties
+- fj-doc-mod-openpdf-version property for repository https://github.com/fugerit-org/fj-doc-mod-openpdf
+- fj-core-j2ee-version property for repository https://github.com/fugerit-org/fj-core-j2ee
+- fj-doc-ent-version property for repository https://github.com/fugerit-org/fj-doc-ent
+- fj-doc-mod-jxl-version property for repository https://github.com/fugerit-org/fj-doc-mod-jxl
+- fj-doc-mod-itext-version property for repository https://github.com/fugerit-org/fj-doc-mod-itext
+
+### Changed
+
+- fj-doc version set to 2.0.2
+
 ## [0.2.0] - 2023-09-05
 
 ### Changed

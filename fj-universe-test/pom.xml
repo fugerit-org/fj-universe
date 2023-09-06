@@ -12,12 +12,14 @@
 	<artifactId>fj-universe-test</artifactId>
 
 	<name>Fugerit universe dependency test module</name>
-	<description>This modules use the dependency plugin to copy all the dependencies needed.</description>
+	<description>This modules use the dependency plugin to copy all the
+		dependencies needed.</description>
 	<url>https://github.com/fugerit-org/fj-universe/</url>
 
 	<scm>
 		<connection>scm:git:git://github.com/fugerit-org/fj-universe.git</connection>
-		<developerConnection>scm:git:ssh://github.com/fugerit-org/fj-universe.git</developerConnection>
+		<developerConnection>
+			scm:git:ssh://github.com/fugerit-org/fj-universe.git</developerConnection>
 		<url>https://github.com/fugerit-org/fj-universe.git</url>
 	</scm>
 
@@ -26,6 +28,14 @@
 	</properties>
 
 	<dependencies>
+
+		<!-- mantained modules -->
+
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-bom</artifactId>
+			<type>pom</type>
+		</dependency>
 
 		<dependency>
 			<groupId>org.fugerit.java</groupId>
@@ -111,6 +121,42 @@
 		<dependency>
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-daogen-tool</artifactId>
+		</dependency>
+
+		<!-- extra modules -->
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-doc-mod-openpdf</artifactId>
+		</dependency>
+
+		<!-- deprecated modules -->
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-core-j2ee</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-doc-ent</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-doc-mod-jxl</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-doc-mod-itext</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<scope>test</scope>
+		</dependency>
+		
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
 		</dependency>
 
 	</dependencies>

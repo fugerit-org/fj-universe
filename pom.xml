@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.fugerit.java</groupId>
 		<artifactId>fj-bom</artifactId>
-		<version>1.3.5</version>
+		<version>1.3.7-SNAPSHOT</version>
 		<relativePath></relativePath>
 	</parent>
 
@@ -76,9 +76,21 @@
 	</distributionManagement>
 
 	<properties>
+		<!-- version for : https://github.com/fugerit-org/fj-bom -->
+		<fj-bom-version>1.3.6</fj-bom-version>
+		<!-- version for : https://github.com/fugerit-org/fj-lib -->
 		<fj-version>8.2.6</fj-version>
-		<fj-doc-version>2.0.1</fj-doc-version>
+		<!-- version for : https://github.com/fugerit-org/fj-doc -->
+		<fj-doc-version>2.0.2</fj-doc-version>
+		<!-- version for : https://github.com/fugerit-org/fj-daogen -->
 		<fj-daogen-version>1.1.10</fj-daogen-version>
+		<!-- extra modules -->
+		<fj-doc-mod-openpdf-version>1.0.0</fj-doc-mod-openpdf-version>
+		<!-- deprecated modules -->
+		<fj-core-j2ee-version>8.0.3-sa.1</fj-core-j2ee-version>
+		<fj-doc-ent-version>0.5.0-rc.001</fj-doc-ent-version>
+		<fj-doc-mod-jxl-version>1.0.0</fj-doc-mod-jxl-version>
+		<fj-doc-mod-itext-version>1.0.0-sa.2</fj-doc-mod-itext-version>
 	</properties>
 
 	<modules>
@@ -88,6 +100,14 @@
 	<dependencyManagement>
 	
 		<dependencies>
+
+			<!-- dependencies from fj-bom : https://github.com/fugerit-org/fj-bom -->
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-bom</artifactId>
+				<version>${fj-bom-version}</version>
+				<type>pom</type>
+			</dependency>
 
 			<!-- dependencies from fj-lib : https://github.com/fugerit-org/fj-lib -->
 			<dependency>
@@ -197,6 +217,43 @@
 				<artifactId>fj-daogen-tool</artifactId>
 				<version>${fj-daogen-version}</version>
 			</dependency>
+			
+			<!-- dependencies from fj-doc-mod-jxl : https://github.com/fugerit-org/fj-doc-mod-openpdf -->
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-mod-openpdf</artifactId>
+				<version>${fj-doc-mod-openpdf-version}</version>
+			</dependency>
+			
+			<!-- dependencies from fj-core-j2ee : https://github.com/fugerit-org/fj-core-j2ee -->
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-core-j2ee</artifactId>
+				<version>${fj-core-j2ee-version}</version>
+			</dependency>
+			
+			<!-- dependencies from fj-doc-ent : https://github.com/fugerit-org/fj-doc-ent -->
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-ent</artifactId>
+				<version>${fj-doc-ent-version}</version>
+			</dependency>	
+		
+			<!-- dependencies from fj-doc-mod-jxl : https://github.com/fugerit-org/fj-doc-mod-jxl -->
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-mod-jxl</artifactId>
+				<version>${fj-doc-mod-jxl-version}</version>
+			</dependency>
+		
+			<!-- dependencies from fj-doc-mod-itext : https://github.com/fugerit-org/fj-doc-mod-itext -->
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-mod-itext</artifactId>
+				<version>${fj-doc-mod-itext-version}</version>
+			</dependency>
+			
+			
 			
 		</dependencies>
 
