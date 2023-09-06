@@ -15,4 +15,10 @@ public class SectionModel {
 		return new SectionModel( name, items );
 	}
 	
+	public static final SectionModel[] SECTIONS_FUGERIT_ORG = {
+			SectionModel.newInstance( "core" , "fj-bom", "fj-lib", "fj-doc", "fj-daogen" ),
+			SectionModel.newInstance( "extra" , "fj-doc-mod-openpdf" ),
+			SectionModel.newInstance( "deprecated" , "fj-core-j2ee", "fj-doc-ent", "fj-doc-mod-jxl", "fj-doc-mod-itext" ),
+	};
+	
 }
