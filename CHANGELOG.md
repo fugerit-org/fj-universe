@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.1] - 2023-09-16
+
 ### Added
 
 - documentation on pom version properties
@@ -15,10 +17,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - fj-doc-ent-version property for repository https://github.com/fugerit-org/fj-doc-ent
 - fj-doc-mod-jxl-version property for repository https://github.com/fugerit-org/fj-doc-mod-jxl
 - fj-doc-mod-itext-version property for repository https://github.com/fugerit-org/fj-doc-mod-itext
+- [maven deploy workflow](.github/workflows/deploy_maven_package.yml)
+- coverage badfe for core modules
 
 ### Changed
 
-- fj-doc version set to 2.0.2
+- fj-bom-version set to 1.4.0
+- fj-version set to 8.3.1
+- fj-doc-version set to 3.0.4
+- fj-daogen-version set to 1.2.1
 
 ## [0.2.0] - 2023-09-05
 
