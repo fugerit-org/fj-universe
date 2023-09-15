@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Security
+
+- [Bouncy Castle vulnerability fix](https://github.com/fugerit-org/fj-universe/security/dependabot/9)
+
 ## [0.2.3] - 2023-09-16
 
 ### Changed
