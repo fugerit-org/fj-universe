@@ -12,7 +12,7 @@
 	<groupId>org.fugerit.java.universe</groupId>
 	<artifactId>fj-universe</artifactId>
 
-	<version>0.2.2</version>
+	<version>0.2.3</version>
 	<packaging>pom</packaging>
 
 	<name>Fugerit Java Universe BOM Project</name>
@@ -90,7 +90,7 @@
 		<fj-core-j2ee-version>8.0.3-sa.1</fj-core-j2ee-version>
 		<fj-doc-ent-version>0.5.0-rc.001</fj-doc-ent-version>
 		<fj-doc-mod-jxl-version>1.0.0</fj-doc-mod-jxl-version>
-		<fj-doc-mod-itext-version>1.0.0-sa.2</fj-doc-mod-itext-version>
+		<fj-doc-mod-itext-version>1.1.0-sa.1</fj-doc-mod-itext-version>
 	</properties>
 
 	<modules>
