@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>0.2.1</version>
+		<version>0.2.2</version>
 	</parent>
 
 	<artifactId>fj-universe-test</artifactId>
@@ -150,7 +150,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<scope>test</scope>
+			<scope>provided</scope>
 		</dependency>
 		
 		<dependency>

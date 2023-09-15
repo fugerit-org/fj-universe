@@ -5,6 +5,7 @@ import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.text.MessageFormat;
 
+import org.fugerit.java.universe.utils.SectionModel;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -12,7 +12,7 @@
 	<groupId>org.fugerit.java.universe</groupId>
 	<artifactId>fj-universe</artifactId>
 
-	<version>0.2.1</version>
+	<version>0.2.2</version>
 	<packaging>pom</packaging>
 
 	<name>Fugerit Java Universe BOM Project</name>
@@ -252,9 +252,7 @@
 				<artifactId>fj-doc-mod-itext</artifactId>
 				<version>${fj-doc-mod-itext-version}</version>
 			</dependency>
-			
-			
-			
+
 		</dependencies>
 
 	</dependencyManagement>

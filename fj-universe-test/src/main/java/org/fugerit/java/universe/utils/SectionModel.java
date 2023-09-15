@@ -1,4 +1,4 @@
-package test.org.fugerit.java.universe.utils;
+package org.fugerit.java.universe.utils;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
