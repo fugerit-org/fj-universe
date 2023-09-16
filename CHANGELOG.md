@@ -13,11 +13,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - fj-core-j2ee-version set to 8.3.1-sa.1
 - fj-doc-ent-version set to 1.1.0-sa.1
-- fj-doc-mod-jxl-version set to 1.0.0-sa.1
+- fj-doc-mod-jxl-version set to 1.1.0-sa.1
+- fj-doc-mod-openpdf-version set to 1.1.0-sa.1
 
 ### Fixed
 
 - link in readme to extra and deprecated modules
+- readme generator junit
 
 ### Security
 

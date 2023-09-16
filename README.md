@@ -20,9 +20,9 @@
 
 ### [extra](src/docs/versions-extra.md) version properties
 
-| pom property | repository | repo central | quality gate |
-|--------------|------------|--------------|--------------|
-| [fj-doc-mod-openpdf-version](src/docs/versions-extra.md#fj-doc-mod-openpdf-version) | [fugerit-org/fj-doc-mod-openpdf](https://github.com/fugerit-org/fj-doc-mod-openpdf) | [![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/fj-doc-mod-openpdf.svg)](https://mvnrepository.com/artifact/org.fugerit.java/fj-doc-mod-openpdf) | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_fj-doc-mod-openpdf&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fugerit-org_fj-doc-mod-openpdf)
+| pom property | repository | repo central | quality gate | test coverage |
+|--------------|------------|--------------|--------------|---------------|
+| [fj-doc-mod-openpdf-version](src/docs/versions-extra.md#fj-doc-mod-openpdf-version) | [fugerit-org/fj-doc-mod-openpdf](https://github.com/fugerit-org/fj-doc-mod-openpdf) | [![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/fj-doc-mod-openpdf.svg)](https://mvnrepository.com/artifact/org.fugerit.java/fj-doc-mod-openpdf) | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_fj-doc-mod-openpdf&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fugerit-org_fj-doc-mod-openpdf) |[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_fj-doc-mod-openpdf&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fugerit-org_fj-doc-mod-openpdf)
 
 ### [deprecated](src/docs/versions-deprecated.md) version properties
 
