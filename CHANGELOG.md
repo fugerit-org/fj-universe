@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- fj-core-j2ee-version set to 8.3.1-sa.1
+- fj-doc-ent-version set to 1.1.0-sa.1
+- fj-doc-mod-jxl-version set to 1.0.0-sa.1
+
 ### Security
 
 - [Bouncy Castle vulnerability fix](https://github.com/fugerit-org/fj-universe/security/dependabot/9)

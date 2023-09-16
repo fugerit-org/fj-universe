@@ -87,9 +87,9 @@
 		<!-- extra modules -->
 		<fj-doc-mod-openpdf-version>1.0.0</fj-doc-mod-openpdf-version>
 		<!-- deprecated modules -->
-		<fj-core-j2ee-version>8.0.3-sa.1</fj-core-j2ee-version>
-		<fj-doc-ent-version>0.5.0-rc.001</fj-doc-ent-version>
-		<fj-doc-mod-jxl-version>1.0.0</fj-doc-mod-jxl-version>
+		<fj-core-j2ee-version>8.3.1-sa.1</fj-core-j2ee-version>
+		<fj-doc-ent-version>1.1.0-sa.1</fj-doc-ent-version>
+		<fj-doc-mod-jxl-version>1.0.0-sa.1</fj-doc-mod-jxl-version>
 		<fj-doc-mod-itext-version>1.1.0-sa.1</fj-doc-mod-itext-version>
 	</properties>
 
