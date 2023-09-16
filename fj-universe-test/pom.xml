@@ -6,20 +6,18 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>0.2.4</version>
+		<version>0.2.5</version>
 	</parent>
 
 	<artifactId>fj-universe-test</artifactId>
 
 	<name>Fugerit universe dependency test module</name>
-	<description>This modules use the dependency plugin to copy all the
-		dependencies needed.</description>
+	<description>This modules use the dependency plugin to copy all the dependencies needed.</description>
 	<url>https://github.com/fugerit-org/fj-universe/</url>
 
 	<scm>
 		<connection>scm:git:git://github.com/fugerit-org/fj-universe.git</connection>
-		<developerConnection>
-			scm:git:ssh://github.com/fugerit-org/fj-universe.git</developerConnection>
+		<developerConnection>scm:git:ssh://github.com/fugerit-org/fj-universe.git</developerConnection>
 		<url>https://github.com/fugerit-org/fj-universe.git</url>
 	</scm>
 
@@ -30,13 +28,7 @@
 	<dependencies>
 
 		<!-- mantained modules -->
-
-		<dependency>
-			<groupId>org.fugerit.java</groupId>
-			<artifactId>fj-bom</artifactId>
-			<type>pom</type>
-		</dependency>
-
+		
 		<dependency>
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-lib</artifactId>

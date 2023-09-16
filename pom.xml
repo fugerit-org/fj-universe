@@ -12,7 +12,7 @@
 	<groupId>org.fugerit.java.universe</groupId>
 	<artifactId>fj-universe</artifactId>
 
-	<version>0.2.4</version>
+	<version>0.2.5</version>
 	<packaging>pom</packaging>
 
 	<name>Fugerit Java Universe BOM Project</name>
@@ -76,8 +76,6 @@
 	</distributionManagement>
 
 	<properties>
-		<!-- version for : https://github.com/fugerit-org/fj-bom -->
-		<fj-bom-version>1.4.0</fj-bom-version>
 		<!-- version for : https://github.com/fugerit-org/fj-lib -->
 		<fj-version>8.3.1</fj-version>
 		<!-- version for : https://github.com/fugerit-org/fj-doc -->
@@ -100,15 +98,7 @@
 	<dependencyManagement>
 	
 		<dependencies>
-
-			<!-- dependencies from fj-bom : https://github.com/fugerit-org/fj-bom -->
-			<dependency>
-				<groupId>org.fugerit.java</groupId>
-				<artifactId>fj-bom</artifactId>
-				<version>${fj-bom-version}</version>
-				<type>pom</type>
-			</dependency>
-
+		
 			<!-- dependencies from fj-lib : https://github.com/fugerit-org/fj-lib -->
 			<dependency>
 				<groupId>org.fugerit.java</groupId>
@@ -256,5 +246,5 @@
 		</dependencies>
 
 	</dependencyManagement>
-	
+
 </project>
