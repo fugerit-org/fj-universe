@@ -12,7 +12,7 @@
 	<groupId>org.fugerit.java.universe</groupId>
 	<artifactId>fj-universe</artifactId>
 
-	<version>0.3.2</version>
+	<version>0.3.3</version>
 	<packaging>pom</packaging>
 
 	<name>Fugerit Java Universe BOM Project</name>
@@ -77,11 +77,11 @@
 
 	<properties>
 		<!-- version for : https://github.com/fugerit-org/fj-lib -->
-		<fj-version>8.3.6</fj-version>
+		<fj-version>8.3.7</fj-version>
 		<!-- version for : https://github.com/fugerit-org/fj-doc -->
-		<fj-doc-version>3.0.5</fj-doc-version>
+		<fj-doc-version>3.0.7</fj-doc-version>
 		<!-- version for : https://github.com/fugerit-org/fj-daogen -->
-		<fj-daogen-version>1.2.3</fj-daogen-version>
+		<fj-daogen-version>1.2.4</fj-daogen-version>
 		<!-- extra modules -->
 		<fj-doc-mod-openpdf-version>1.1.0-sa.1</fj-doc-mod-openpdf-version>
 		<!-- deprecated modules -->

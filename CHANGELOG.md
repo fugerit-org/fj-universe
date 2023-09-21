@@ -7,9 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.3] - 2023-09-21
+
 ### Added
 
 - [sonar cloud maven workflow](.github/workflows/sonarcloud-maven.yml)
+
+### Changed
+
+- fj-version set to 8.3.7
+- fj-doc-version set to 3.0.7
+- fj-daogen-version set to 1.2.4
 
 ## [0.3.2] - 2023-09-18
 
