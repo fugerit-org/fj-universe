@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - [Contributor covenant](https://github.com/EthicalSource/contributor_covenant) [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
+- Code of conduct badge
 
 ### Changed
 
