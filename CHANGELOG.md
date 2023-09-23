@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 2023-09-24
+
+### Added
+
+- [Contributor covenant](https://github.com/EthicalSource/contributor_covenant) [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
+
+### Changed
+
+- fj-bom set to 1.4.2
+- fj-version set to 8.3.8
+
 ## [0.3.3] - 2023-09-21
 
 ### Added
