@@ -20,7 +20,7 @@ public class TestGenerateStatus {
 				PrintWriter writer = new PrintWriter( buffer ) ) {
 			writer.println( "| section | repository | repo central | quality gate | coverage |" );
 			writer.println( "|---------|------------|--------------|--------------|----------|" );
-			for ( SectionModel section : SectionModel.SECTIONS_FUGERIT_ORG ) {
+			for ( SectionModel section : SectionCatalog.getSectionsFugeritOrg() ) {
 				String name = section.getName();
 				for ( String module : section.getItems() ) {
 					String propertyBase = module;

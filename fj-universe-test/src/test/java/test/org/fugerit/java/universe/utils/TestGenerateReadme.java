@@ -18,7 +18,7 @@ public class TestGenerateReadme {
 	public void generate() throws IOException {
 		try ( StringWriter buffer = new StringWriter();
 				PrintWriter writer = new PrintWriter( buffer ) ) {
-			for ( SectionModel section : SectionModel.SECTIONS_FUGERIT_ORG ) {
+			for ( SectionModel section : SectionCatalog.getSectionsFugeritOrg() ) {
 				String name = section.getName();
 				writer.println( MessageFormat.format( "### [{0}](src/docs/versions-{0}.md) version properties", name ) );
 				writer.println();
