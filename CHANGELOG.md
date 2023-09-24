@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.2] - 2023-09-24
+
+### Changed
+
+- [Sonar cloud workflow merged in maven build](.github/workflows/deploy_maven_package.yml)
+- fj-bom set to 1.4.5
+- fj-version set to 8.3.9
+- fj-daogen-version set to 1.3.0
+
 ## [0.4.1] - 2023-09-24
 
 ### Changed
