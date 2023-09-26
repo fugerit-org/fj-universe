@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.3] - 2023-09-26
+
+### Changed
+
+- fj-daogen-version set to 1.3.0
+
 ## [0.4.2] - 2023-09-24
 
 ### Changed
