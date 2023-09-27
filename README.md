@@ -34,6 +34,10 @@
 | [fj-doc-mod-jxl-version](src/docs/versions-deprecated.md#fj-doc-mod-jxl-version) | [fugerit-org/fj-doc-mod-jxl](https://github.com/fugerit-org/fj-doc-mod-jxl) | [![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/fj-doc-mod-jxl.svg)](https://mvnrepository.com/artifact/org.fugerit.java/fj-doc-mod-jxl) | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_fj-doc-mod-jxl&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fugerit-org_fj-doc-mod-jxl)
 | [fj-doc-mod-itext-version](src/docs/versions-deprecated.md#fj-doc-mod-itext-version) | [fugerit-org/fj-doc-mod-itext](https://github.com/fugerit-org/fj-doc-mod-itext) | [![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/fj-doc-mod-itext.svg)](https://mvnrepository.com/artifact/org.fugerit.java/fj-doc-mod-itext) | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_fj-doc-mod-itext&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fugerit-org_fj-doc-mod-itext)
 
+## module fj-universe-tool
+
+Utility parent pom for stand alone tool projects
+
 ## module fj-universe-test
 
 This modules use the dependency plugin to copy all the dependencies needed.

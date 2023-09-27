@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- module fj-universe-tool, utility parent for stand alone tools
+
 ## [0.4.4] - 2023-09-26
 
 ### Changed
