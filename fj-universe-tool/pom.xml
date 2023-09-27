@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>0.4.5-rc.2</version>
+		<version>0.4.5-rc.3</version>
 	</parent>
 
 	<artifactId>fj-universe-tool</artifactId>
@@ -25,6 +25,8 @@
 	<properties>
 		<!-- override this property if needed -->
 		<tool-main-class>tool.Run</tool-main-class>
+		<!-- override java-version compliance if needed -->
+		<maven.compiler.release>${java-version-compliance}</maven.compiler.release>
 	</properties>
 
 	<dependencies>
