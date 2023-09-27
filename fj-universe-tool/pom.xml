@@ -43,6 +43,12 @@
 		</dependency>
 		
 		<dependency>
+		    <groupId>org.fugerit.java</groupId>
+		    <artifactId>fj-tool-helper</artifactId>
+		    <scope>test</scope>
+		</dependency>	
+		
+		<dependency>
 		    <groupId>org.slf4j</groupId>
 		    <artifactId>slf4j-simple</artifactId>
 		    <scope>test</scope>
@@ -62,10 +68,6 @@
 			<id>singlepackage</id>
 			<dependencies>
 				<dependency>
-					<groupId>org.apache.poi</groupId>
-					<artifactId>poi-ooxml</artifactId>
-				</dependency>
-				<dependency>
 					<groupId>org.apache.logging.log4j</groupId>
 				    <artifactId>log4j-api</artifactId>
 				</dependency>
@@ -83,7 +85,6 @@
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-jar-plugin</artifactId>
-						<version>3.3.0</version>
 						<configuration>
 							<archive>
 								<manifest>
@@ -120,7 +121,6 @@
 					<plugin>
 						<groupId>org.apache.maven.plugins</groupId>
 						<artifactId>maven-shade-plugin</artifactId>
-						<version>3.5.1</version>
 						<executions>
 							<execution>
 								<phase>package</phase>

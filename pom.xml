@@ -29,6 +29,8 @@
 		<fj-doc-ent-version>1.1.0-sa.1</fj-doc-ent-version>
 		<fj-doc-mod-jxl-version>1.1.0-sa.1</fj-doc-mod-jxl-version>
 		<fj-doc-mod-itext-version>1.1.0-sa.1</fj-doc-mod-itext-version>
+		<!-- tool dependencies -->
+		<fj-tool-helper-version>0.1.0</fj-tool-helper-version>
 	</properties>
 
 	<modules>
@@ -242,6 +244,13 @@
 				<groupId>org.fugerit.java</groupId>
 				<artifactId>fj-doc-mod-itext</artifactId>
 				<version>${fj-doc-mod-itext-version}</version>
+			</dependency>
+			
+			<!-- other dependencies -->
+			<dependency>
+			    <groupId>org.fugerit.java</groupId>
+			    <artifactId>fj-tool-helper</artifactId>
+			    <version>${fj-tool-helper-version}</version>
 			</dependency>
 
 		</dependencies>
