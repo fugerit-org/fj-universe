@@ -12,7 +12,7 @@
 	<groupId>org.fugerit.java.universe</groupId>
 	<artifactId>fj-universe</artifactId>
 
-	<version>0.4.5-rc.4</version>
+	<version>0.4.5</version>
 	<packaging>pom</packaging>
 
 	<properties>
@@ -30,6 +30,7 @@
 		<fj-doc-mod-jxl-version>1.1.0-sa.1</fj-doc-mod-jxl-version>
 		<fj-doc-mod-itext-version>1.1.0-sa.1</fj-doc-mod-itext-version>
 		<!-- tool dependencies -->
+		<fj-tool-util-version>0.1.0</fj-tool-util-version>
 		<fj-tool-helper-version>0.1.0</fj-tool-helper-version>
 	</properties>
 
@@ -247,6 +248,11 @@
 			</dependency>
 			
 			<!-- other dependencies -->
+			<dependency>
+			    <groupId>org.fugerit.java</groupId>
+			    <artifactId>fj-tool-util</artifactId>
+			    <version>${fj-tool-util-version}</version>
+			</dependency>
 			<dependency>
 			    <groupId>org.fugerit.java</groupId>
 			    <artifactId>fj-tool-helper</artifactId>

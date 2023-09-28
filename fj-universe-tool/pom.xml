@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>0.4.5-rc.4</version>
+		<version>0.4.5</version>
 	</parent>
 
 	<artifactId>fj-universe-tool</artifactId>
@@ -36,6 +36,11 @@
 			<artifactId>fj-core</artifactId>
 		</dependency>	
 		
+		<dependency>
+		    <groupId>org.fugerit.java</groupId>
+		    <artifactId>fj-tool-util</artifactId>
+		</dependency>			
+
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
