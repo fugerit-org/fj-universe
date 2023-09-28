@@ -7,12 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.6] - 2023-09-28
+
+### Changed
+
+- fj-tool-helper-version set to 0.1.1
+
 ## [0.4.5] - 2023-09-28
 
 ### Added
 
 - module fj-universe-tool, utility parent for stand alone tools
-- fj-util-helper dependency handling set to 0.1.0
+- fj-tool-util dependency handling set to 0.1.0
 - fj-tool-helper dependency handling set to 0.1.0
 
 ### Changed
