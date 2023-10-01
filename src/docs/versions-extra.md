@@ -13,6 +13,18 @@
 			</dependency>
 ```
 
+## query-export-tool
+
+```
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>query-export-tool</artifactId>
+				<version>${query-export-tool-version}</version>
+			</dependency>
+```
+
+
+
 ## fj-tool-util
 
 ```
