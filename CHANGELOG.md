@@ -7,9 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2023-10-01
+
 ## Added
 
 - java and mavem badges
+- fj-xml-to-json-version dependency set to 0.1.1
+- j-i18n-xml-helper dependency set to 0.1.3
+- yaml-doc-tool-version dependency set to 0.5.0
+- github-issue-export-version> dependency set to 0.7.0
 
 ### Fixed
 

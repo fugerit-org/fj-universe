@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>0.4.8</version>
+		<version>0.5.0</version>
 	</parent>
 
 	<artifactId>fj-universe-test</artifactId>
@@ -120,6 +120,30 @@
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-doc-mod-openpdf</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-tool-util</artifactId>
+		</dependency>		
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-tool-helper</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-xml-to-json</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-i18n-xml-helper</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>yaml-doc-tool</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>github-issue-export</artifactId>
+		</dependency>
 
 		<!-- deprecated modules -->
 		<dependency>
@@ -137,16 +161,6 @@
 		<dependency>
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-doc-mod-itext</artifactId>
-		</dependency>
-
-		<!-- other modules -->
-		<dependency>
-			<groupId>org.fugerit.java</groupId>
-			<artifactId>fj-tool-util</artifactId>
-		</dependency>		
-		<dependency>
-			<groupId>org.fugerit.java</groupId>
-			<artifactId>fj-tool-helper</artifactId>
 		</dependency>
 		
 		<dependency>
