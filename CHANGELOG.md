@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.3] - 2023-10-18
+
+### Changed
+
+- fj-doc-version set to 3.1.6
+- j-i18n-xml-helper dependency set to 0..3
+
 ## [0.5.2] - 2023-10-02
 
 ### Changed
