@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.fugerit.java</groupId>
 		<artifactId>fj-bom</artifactId>
-		<version>1.4.7</version>
+		<version>1.4.8</version>
 		<relativePath></relativePath>
 	</parent>
 
 	<groupId>org.fugerit.java.universe</groupId>
 	<artifactId>fj-universe</artifactId>
 
-	<version>0.5.4</version>
+	<version>0.5.5</version>
 	<packaging>pom</packaging>
 
 	<properties>
