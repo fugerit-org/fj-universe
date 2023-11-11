@@ -19,7 +19,7 @@
 		<!-- version for : https://github.com/fugerit-org/fj-lib -->
 		<fj-version>8.4.4</fj-version>
 		<!-- version for : https://github.com/fugerit-org/fj-doc -->
-		<fj-doc-version>3.1.8</fj-doc-version>
+		<fj-doc-version>3.2.0</fj-doc-version>
 		<!-- version for : https://github.com/fugerit-org/fj-daogen -->
 		<fj-daogen-version>1.3.1</fj-daogen-version>
 		<!-- extra modules -->
