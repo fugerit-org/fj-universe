@@ -12,7 +12,7 @@
 	<groupId>org.fugerit.java.universe</groupId>
 	<artifactId>fj-universe</artifactId>
 
-	<version>0.5.5</version>
+	<version>0.5.6</version>
 	<packaging>pom</packaging>
 
 	<properties>
