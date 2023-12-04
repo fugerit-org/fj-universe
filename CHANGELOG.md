@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.7] - 2023-12-04
+
+### Changed
+
+- fj-doc-version set to 3.2.2
+- yaml-doc-tool-version set to 1.0.0
+
 ## [0.5.6] - 2023-11-24
 
 ### Changed
@@ -18,7 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-fj-doc-mod-openpdf-1.2.0-sa.1
+- fj-doc-mod-openpdf-1.2.0-sa.1
 - fj-bom set to 1.5.0
 
 ## [0.5.4] - 2023-10-26
