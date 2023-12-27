@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.8] - 2023-12-27
+
+### Changed
+
+- fj-version set to 8.4.6
+- fj-doc-version set to 3.2.5
+- fj-daogen-version set to 1.3.2
+- fj-doc-mod-openpdf set to 1.2.2
+- fj-bom set to 1.5.2
+
 ## [0.5.7] - 2023-12-04
 
 ### Changed
