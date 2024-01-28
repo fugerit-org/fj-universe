@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- [fugerit project structure](src/docs/conventions/fugerit-project-structure.md)
+
 ### Changed
 
 - fj-doc-version set to 3.3.1
