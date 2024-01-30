@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- java 17 version page
 - [fugerit project structure](src/docs/conventions/fugerit-project-structure.md)
 
 ### Changed
