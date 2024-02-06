@@ -4,3 +4,4 @@ I would like to thank [JetBrains](https://www.jetbrains.com) [Licenses for Open 
 
 Their great products vastly increased speed and ease of development. And they are also a pleasure to work with. Especially IntelliJ and WebStorm.
 
+[![JetBrains](https://universe.fugerit.org/src/docs/thanks/jetbrains.png)](https://universe.fugerit.org/src/docs/thanks/jetbrains.html)
