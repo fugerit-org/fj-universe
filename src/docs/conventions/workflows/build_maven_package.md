@@ -2,6 +2,8 @@
 
 This is a maven java workflow responsible for running maven build, scan and, in some cases, other actions like docker image build.
 
+**Version** : 1.0.0
+
 There are a few steps which are always run : 
 
 - Maven build (usually on ubuntu-latest runner and minimum needed JDK version)

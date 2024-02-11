@@ -13,3 +13,6 @@ Most projects will have a few workflows based on github actions.
 |workflow|name|description|
 |---|---|---|
 |[build_maven_package.yml](workflows/build_maven_package.md)|CI maven build and scan|Run maven build, scan (Sonar Cloud and/or Snyk etc.), if needed, may also build and push docker image|
+|[build_maven_compatibility.yml](workflows/build_maven_compatibility.md)|CI maven compatibility check|Rdeploy release artifacts on sonatype central repositor|
+|[deploy_maven_package.yml](workflows/deploy_maven_package.md)|CI deploy maven package|deploy release artifacts on sonatype central repository.|
+|[codeql-analysis](workflows/codeql-analysis.md)|CodeQL|Github code quality check|
