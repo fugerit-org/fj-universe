@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - fj-doc-version set to 3.3.1
 - fj-doc-mod-openpdf set to 1.3.0
+- workflows review
 
 ## [0.5.8] - 2023-12-27
 
