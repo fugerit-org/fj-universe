@@ -15,7 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- fj-doc-version set to 3.3.1
+- fj-bom version set to 1.6.0
+- fj-version set to 8.4.8
+- fj-doc-version set to 3.4.1
+- fj-daogen-version set to 1.3.3
 - fj-doc-mod-openpdf set to 1.3.0
 - workflows review
 
