@@ -27,7 +27,7 @@
 		<query-export-tool-version>0.4.2</query-export-tool-version>
 		<fj-tool-util-version>0.1.0</fj-tool-util-version>
 		<fj-tool-helper-version>0.1.2</fj-tool-helper-version>
-		<fj-xml-to-json-version>0.1.1</fj-xml-to-json-version>
+		<fj-xml-to-json-version>1.0.0</fj-xml-to-json-version>
 		<fj-i18n-xml-helper-version>2.0.0</fj-i18n-xml-helper-version>
 		<yaml-doc-tool-version>1.0.0</yaml-doc-tool-version>
 		<github-issue-export-version>0.7.0</github-issue-export-version>
