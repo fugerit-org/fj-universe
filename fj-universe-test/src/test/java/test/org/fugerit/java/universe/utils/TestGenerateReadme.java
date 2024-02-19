@@ -31,7 +31,7 @@ public class TestGenerateReadme {
 					}
 					log.info( "current {} - {} - {}", name, module, propertyBase );
 					writer.println( MessageFormat.format( 
-							"| [{1}-version](src/docs/versions-core.md#{1}-version) | [fugerit-org/{0}](https://github.com/fugerit-org/{0}) | "
+							"| [{1}-version](src/docs/versions-"+name+".md#{1}-version) | [fugerit-org/{0}](https://github.com/fugerit-org/{0}) | "
 							+ "[![Maven Central](https://img.shields.io/maven-central/v/org.fugerit.java/{0}.svg)](https://mvnrepository.com/artifact/org.fugerit.java/{0}) | "
 							+ "[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_{0}&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fugerit-org_{0}) |"
 							+ "[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fugerit-org_{0}&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fugerit-org_{0})",

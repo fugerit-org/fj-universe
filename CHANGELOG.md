@@ -7,14 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2024-02-19
+
 ### Added
 
+- github-issue-export-version 1.0.0
 - java 17 version page
 - [fugerit project structure](src/docs/conventions/fugerit-project-structure.md)
 - [fugerit github project conventions](src/docs/conventions/index.md)
 
 ### Changed
 
+- fj-doc-mod-openpdf moved to deprecated section, substituted by [openpdf and openrtf modules in fj-doc](https://github.com/fugerit-org/fj-doc/issues/111)
+- fj-tool-util-version set to 1.0.0
+- fj-tool-helper-version set to 1.0.0
+- fj-xml-to-json-version set to 1.0.0
+- query-export-tool-version set to 1.0.0
 - fj-bom version set to 1.6.0
 - fj-version set to 8.4.8
 - fj-doc-version set to 3.4.1
