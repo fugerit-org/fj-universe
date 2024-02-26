@@ -30,7 +30,7 @@
 		<fj-xml-to-json-version>1.0.0</fj-xml-to-json-version>
 		<fj-i18n-xml-helper-version>2.0.0</fj-i18n-xml-helper-version>
 		<yaml-doc-tool-version>1.0.0</yaml-doc-tool-version>
-		<github-issue-export-version>0.7.0</github-issue-export-version>
+		<github-issue-export-version>1.0.0</github-issue-export-version>
 		<!-- deprecated modules -->
 		<fj-core-j2ee-version>8.3.1-sa.1</fj-core-j2ee-version>
 		<fj-doc-ent-version>1.1.0-sa.1</fj-doc-ent-version>
