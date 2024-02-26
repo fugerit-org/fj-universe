@@ -21,7 +21,7 @@
 		<!-- version for : https://github.com/fugerit-org/fj-doc -->
 		<fj-doc-version>3.4.1</fj-doc-version>
 		<!-- version for : https://github.com/fugerit-org/fj-daogen -->
-		<fj-daogen-version>1.3.3</fj-daogen-version>
+		<fj-daogen-version>1.3.4</fj-daogen-version>
 		<!-- extra modules -->
 		<fj-doc-mod-openpdf-version>1.3.0</fj-doc-mod-openpdf-version>
 		<query-export-tool-version>1.0.0</query-export-tool-version>
