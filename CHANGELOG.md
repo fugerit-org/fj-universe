@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- added java 21 page
 - github-issue-export-version set to 1.0.0
 - fj-xml-to-json-version set to 1.1.1
 - fj-daogen-version set to 1.3.4
