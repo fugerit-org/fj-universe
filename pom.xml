@@ -17,17 +17,17 @@
 
 	<properties>
 		<!-- version for : https://github.com/fugerit-org/fj-lib -->
-		<fj-version>8.4.9</fj-version>
+		<fj-version>8.5.0</fj-version>
 		<!-- version for : https://github.com/fugerit-org/fj-doc -->
-		<fj-doc-version>3.4.3</fj-doc-version>
+		<fj-doc-version>3.4.4</fj-doc-version>
 		<!-- version for : https://github.com/fugerit-org/fj-daogen -->
-		<fj-daogen-version>1.3.4</fj-daogen-version>
+		<fj-daogen-version>1.6.3</fj-daogen-version>
 		<!-- extra modules -->
 		<fj-doc-mod-openpdf-version>1.3.0</fj-doc-mod-openpdf-version>
 		<query-export-tool-version>1.0.0</query-export-tool-version>
 		<fj-tool-util-version>1.0.0</fj-tool-util-version>
 		<fj-tool-helper-version>1.0.0</fj-tool-helper-version>
-		<fj-xml-to-json-version>1.1.1</fj-xml-to-json-version>
+		<fj-xml-to-json-version>1.2.0</fj-xml-to-json-version>
 		<fj-i18n-xml-helper-version>2.0.0</fj-i18n-xml-helper-version>
 		<yaml-doc-tool-version>1.0.0</yaml-doc-tool-version>
 		<github-issue-export-version>1.0.0</github-issue-export-version>
