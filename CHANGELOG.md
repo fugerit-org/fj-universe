@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- GraalVM 17 and 21 version page
+
 ### Changed
 
 - added java 21 page
