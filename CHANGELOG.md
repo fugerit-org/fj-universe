@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.0] - 2024-03-18
+
+### Removed
+
+- fj-core-j2ee-version and fj-doc-ent-version dependency management
+
 ## [2.0.0] - 2024-03-18
 
 ### Added

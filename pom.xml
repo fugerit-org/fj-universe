@@ -32,8 +32,6 @@
 		<yaml-doc-tool-version>1.0.0</yaml-doc-tool-version>
 		<github-issue-export-version>1.0.0</github-issue-export-version>
 		<!-- deprecated modules -->
-		<fj-core-j2ee-version>8.3.1-sa.1</fj-core-j2ee-version>
-		<fj-doc-ent-version>1.1.0-sa.1</fj-doc-ent-version>
 		<fj-doc-mod-jxl-version>1.1.0-sa.1</fj-doc-mod-jxl-version>
 	</properties>
 
@@ -256,21 +254,7 @@
 				<artifactId>github-issue-export</artifactId>
 				<version>${github-issue-export-version}</version>
 			</dependency>
-			
-			<!-- dependencies from fj-core-j2ee : https://github.com/fugerit-org/fj-core-j2ee -->
-			<dependency>
-				<groupId>org.fugerit.java</groupId>
-				<artifactId>fj-core-j2ee</artifactId>
-				<version>${fj-core-j2ee-version}</version>
-			</dependency>
-			
-			<!-- dependencies from fj-doc-ent : https://github.com/fugerit-org/fj-doc-ent -->
-			<dependency>
-				<groupId>org.fugerit.java</groupId>
-				<artifactId>fj-doc-ent</artifactId>
-				<version>${fj-doc-ent-version}</version>
-			</dependency>	
-		
+
 			<!-- dependencies from fj-doc-mod-jxl : https://github.com/fugerit-org/fj-doc-mod-jxl -->
 			<dependency>
 				<groupId>org.fugerit.java</groupId>
