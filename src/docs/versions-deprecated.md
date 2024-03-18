@@ -34,14 +34,3 @@
 				<version>${fj-doc-mod-jxl-version}</version>
 			</dependency>
 ```
-
-## fj-doc-mod-itext
-
-```
-			<!-- dependencies from fj-doc-mod-itext : https://github.com/fugerit-org/fj-doc-mod-itext -->
-			<dependency>
-				<groupId>org.fugerit.java</groupId>
-				<artifactId>fj-doc-mod-itext</artifactId>
-				<version>${fj-doc-mod-itext-version}</version>
-			</dependency>
-```

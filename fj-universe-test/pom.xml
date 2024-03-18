@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>1.0.2-SNAPSHOT</version>
+		<version>2.0.0</version>
 	</parent>
 
 	<artifactId>fj-universe-test</artifactId>
@@ -162,11 +162,7 @@
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-doc-mod-jxl</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.fugerit.java</groupId>
-			<artifactId>fj-doc-mod-itext</artifactId>
-		</dependency>
-		
+
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>

@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0] - 2024-03-18
+
 ### Added
 
 - GraalVM 17 and 21 version page
@@ -16,9 +18,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added java 21 page
 - github-issue-export-version set to 1.0.0
 - fj-xml-to-json-version set to 1.2.0
-- fj-daogen-version set to 1.7.9
+- fj-daogen-version set to 1.8.0
 - fj-doc-version set to 3.4.4
 - fj-version set to 8.5.3
+
+### Removed 
+
+- fj-doc-itext-version dependency management
+  (substituted by fj-doc-version module fj-doc-mod-openpdf-ext)
 
 ## [1.0.1] - 2024-02-21
 
