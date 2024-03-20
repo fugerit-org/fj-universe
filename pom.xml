@@ -6,7 +6,7 @@
 		<groupId>org.fugerit.java</groupId>
 		<artifactId>fj-bom</artifactId>
 		<version>1.6.1</version>
-		<relativePath></relativePath>
+		<relativePath/>
 	</parent>
 
 	<groupId>org.fugerit.java.universe</groupId>
@@ -19,7 +19,7 @@
 		<!-- version for : https://github.com/fugerit-org/fj-lib -->
 		<fj-version>8.5.3</fj-version>
 		<!-- version for : https://github.com/fugerit-org/fj-doc -->
-		<fj-doc-version>3.4.4</fj-doc-version>
+		<fj-doc-version>3.4.5</fj-doc-version>
 		<!-- version for : https://github.com/fugerit-org/fj-daogen -->
 		<fj-daogen-version>1.8.0</fj-daogen-version>
 		<!-- extra modules -->
