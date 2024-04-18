@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- BOM fj-universe-quarkus
+
 ## [2.2.4] - 2024-04-06
 
 ### Changed
