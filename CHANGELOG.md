@@ -7,9 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.0] - 2024-04-21
+
 ### Added
 
 - BOM fj-universe-quarkus
+- fj-service-helper 1.4.0
+- native-helper-graalvm-version 1.3.5
+- native-helper-maven-plugin-version 1.3.5
+- quarkus-groovy-junit5-version 3.9.2
+
+### Changed
+
+- fj-doc version set to 8.4.6
 
 ## [2.2.4] - 2024-04-06
 

@@ -1,0 +1,6 @@
+# native-helper-graalvm generation configuration
+---
+createParentDirectory: true
+generate:
+  - packageName: org.fugerit.java.universe.utils
+    mode: getters

@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>2.2.5-SNAPSHOT</version>
+		<version>2.3.0</version>
 	</parent>
 
 	<artifactId>fj-universe-test</artifactId>
@@ -148,6 +148,10 @@
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>github-issue-export</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>native-helper-graalvm</artifactId>
+		</dependency>
 
 		<!-- deprecated modules -->
 		<dependency>
@@ -191,6 +195,24 @@
 							<includeGroupIds>
 								org.fugerit.java,org.fugerit.java.universe</includeGroupIds>
 							<excludeGroupIds>*</excludeGroupIds>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>native-helper-maven-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>generate-native-configuration</id>
+						<phase>prepare-package</phase>
+						<goals>
+							<goal>generate</goal>
+						</goals>
+						<configuration>
+							<nativeHelperConfigPath>src/main/config/native-helper-config.yaml</nativeHelperConfigPath>
+							<reflectConfigJsonOutputPath>${project.build.outputDirectory}/META-INF/native-image/reflect-config.json</reflectConfigJsonOutputPath>
+							<warnOnError>true</warnOnError>
 						</configuration>
 					</execution>
 				</executions>
