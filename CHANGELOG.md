@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- native-helper-graalvm-version 1.4.0
+- native-helper-maven-plugin-version 1.4.0
+
 ## [2.3.1] - 2024-05-24
 
 ### Changed
