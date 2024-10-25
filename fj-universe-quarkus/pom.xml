@@ -12,7 +12,7 @@
 	<artifactId>fj-universe-quarkus</artifactId>
 	<packaging>pom</packaging>
 
-	<name>fj-universe-quarkus</name>
+	<name>Fugerit universe dependency helper for Quarkus 3</name>
 	<description>Useful dependency to be used with quarkus 3+ (jdk 17+).</description>
 	<url>https://github.com/fugerit-org/fj-universe/</url>
 
