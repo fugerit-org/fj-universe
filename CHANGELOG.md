@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - fj-bom parent 1.6.7
 - fj-doc-version set to 8.10.2
 - fj-version set to 8.6.5
+- fj-service-helper-version set to 1.4.3
 
 ### Fixed
 
