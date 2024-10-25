@@ -86,6 +86,14 @@
 		</dependency>
 		<dependency>
 			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-doc-mod-openpdf-ext</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
+			<artifactId>fj-doc-mod-openrtf-ext</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-doc-val</artifactId>
 		</dependency>
 		<dependency>

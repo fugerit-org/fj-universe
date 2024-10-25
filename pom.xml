@@ -180,7 +180,17 @@
 				<groupId>org.fugerit.java</groupId>
 				<artifactId>fj-doc-mod-opencsv</artifactId>
 				<version>${fj-doc-version}</version>
-			</dependency>	
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-mod-openpdf-ext</artifactId>
+				<version>${fj-doc-version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-mod-openrtf-ext</artifactId>
+				<version>${fj-doc-version}</version>
+			</dependency>
 			<dependency>
 				<groupId>org.fugerit.java</groupId>
 				<artifactId>fj-doc-val</artifactId>
