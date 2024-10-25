@@ -12,7 +12,7 @@
 	<artifactId>fj-universe-tool</artifactId>
 	<packaging>pom</packaging>
 
-	<name>Fugerit universe dependency test module</name>
+	<name>Fugerit universe dependency tool module</name>
 	<description>This modules use the dependency plugin to copy all the dependencies needed.</description>
 	<url>https://github.com/fugerit-org/fj-universe/</url>
 
