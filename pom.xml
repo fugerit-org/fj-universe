@@ -193,6 +193,26 @@
 			</dependency>
 			<dependency>
 				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-lib-autodoc</artifactId>
+				<version>${fj-doc-version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-lib-simpletable</artifactId>
+				<version>${fj-doc-version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-lib-simpletable-import</artifactId>
+				<version>${fj-doc-version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-lib-kotlin</artifactId>
+				<version>${fj-doc-version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
 				<artifactId>fj-doc-val</artifactId>
 				<version>${fj-doc-version}</version>
 			</dependency>	
