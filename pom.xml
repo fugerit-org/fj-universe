@@ -32,6 +32,7 @@
 		<yaml-doc-tool-version>1.0.1</yaml-doc-tool-version>
 		<github-issue-export-version>1.2.0</github-issue-export-version>
 		<native-helper-graalvm-version>1.4.4</native-helper-graalvm-version>
+		<fj-script-helper-version>2.0.3</fj-script-helper-version>
 		<!-- versions for fj-universe-quarkus -->
 		<quarkus-groovy-junit5-version>3.15.0</quarkus-groovy-junit5-version>
 		<fj-service-helper-version>1.4.3</fj-service-helper-version>
@@ -300,6 +301,11 @@
 				<groupId>org.fugerit.java</groupId>
 				<artifactId>native-helper-graalvm</artifactId>
 				<version>${native-helper-graalvm-version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-script-helper</artifactId>
+				<version>${fj-script-helper-version}</version>
 			</dependency>
 
 			<!-- dependencies from fj-doc-mod-jxl : https://github.com/fugerit-org/fj-doc-mod-jxl -->

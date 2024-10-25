@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- dependency management for org.fugerit.java:fj-script-helper:${fj-script-helper-version}
 - dependency management for org.fugerit.java:fj-doc-base-kotlin:${fj-doc-version}
 - dependency management for org.fugerit.java:fj-doc-mod-openpdf-ext:${fj-doc-version}
 - dependency management for org.fugerit.java:fj-doc-mod-openrtf-ext:${fj-doc-version}
