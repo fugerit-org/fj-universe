@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - fj-bom parent 1.6.7
 - fj-doc-version set to 8.10.2
 - fj-version set to 8.6.5
+- dependency management for org.fugerit.java:fj-doc-base-kotlin:${fj-doc-version}
 
 ## [2.3.4] - 2024-07-18
 

@@ -158,6 +158,11 @@
 			</dependency>
 			<dependency>
 				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-base-kotlin</artifactId>
+				<version>${fj-doc-version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
 				<artifactId>fj-doc-freemarker</artifactId>
 				<version>${fj-doc-version}</version>
 			</dependency>		
