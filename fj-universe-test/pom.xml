@@ -22,7 +22,7 @@
 	</scm>
 
 	<properties>
-		<mvn-dependency-plugin-version>3.8.0</mvn-dependency-plugin-version>
+		<mvn-dependency-plugin-version>3.8.1</mvn-dependency-plugin-version>
 	</properties>
 
 	<dependencies>
