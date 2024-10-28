@@ -29,7 +29,7 @@
 		<fj-tool-helper-version>1.0.0</fj-tool-helper-version>
 		<fj-xml-to-json-version>1.2.0</fj-xml-to-json-version>
 		<fj-i18n-xml-helper-version>2.0.0</fj-i18n-xml-helper-version>
-		<yaml-doc-tool-version>1.0.1</yaml-doc-tool-version>
+		<yaml-doc-tool-version>1.0.2</yaml-doc-tool-version>
 		<github-issue-export-version>1.2.0</github-issue-export-version>
 		<native-helper-graalvm-version>1.4.4</native-helper-graalvm-version>
 		<fj-script-helper-version>2.0.3</fj-script-helper-version>
