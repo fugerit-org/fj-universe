@@ -7,11 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.4.1] - 2024-12-03
+
 ### Changed
 
 - fj-version set to 8.6.6
-- fj-doc-version set to 8.10.9
-- fj-daogen-version set to 1.8.7
+- fj-doc-version set to 8.11.4
+- fj-daogen-version set to 1.8.8
 - native-helper-graalvm-version 1.4.6
 - native-helper-maven-plugin-version 1.4.6
 
