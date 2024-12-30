@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - fj-bom parent 1.7.1
+- fj-doc-version set to 8.11.7
 
 ## [2.4.1] - 2024-12-03
 
