@@ -7,12 +7,16 @@ import lombok.NonNull;
 @AllArgsConstructor
 public class SectionModel {
 
-	@NonNull @Getter private String name;
-	
-	@NonNull @Getter private String[] items;
+    @NonNull
+    @Getter
+    private String name;
 
-	public static SectionModel newInstance( String name, String... items ) {
-		return new SectionModel( name, items );
-	}
-	
+    @NonNull
+    @Getter
+    private String[] items;
+
+    public static SectionModel newInstance(String name, String... items) {
+        return new SectionModel(name, items);
+    }
+
 }
