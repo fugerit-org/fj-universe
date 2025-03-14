@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.4.4] - 2025-03-14
+
+### Fixed
+
+- vulnerabilities https://github.com/fugerit-org/fj-universe/security/dependabot/37
+
 ## [2.4.3] - 2025-03-14
 
 ### Changed
