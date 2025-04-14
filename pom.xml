@@ -17,7 +17,7 @@
 
 	<properties>
 		<!-- version for : https://github.com/fugerit-org/fj-lib -->
-		<fj-version>8.6.6</fj-version>
+		<fj-version>8.6.7</fj-version>
 		<!-- version for : https://github.com/fugerit-org/fj-doc -->
 		<fj-doc-version>8.12.7</fj-doc-version>
 		<!-- version for : https://github.com/fugerit-org/fj-daogen -->
