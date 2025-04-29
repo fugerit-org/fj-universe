@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- fj-bom parent 2.0.0
+- fj-version set to 8.6.9
+- fj-doc-version set to 8.13.9
+- migrating from OSSRH to central
+
 ## [2.4.5] - 2025-04-18
 
 ### Changed
