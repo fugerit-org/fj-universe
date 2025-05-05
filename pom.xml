@@ -34,7 +34,7 @@
 		<native-helper-graalvm-version>1.4.6</native-helper-graalvm-version>
 		<fj-script-helper-version>2.0.3</fj-script-helper-version>
 		<!-- versions for fj-universe-quarkus -->
-		<quarkus-groovy-junit5-version>3.22.0</quarkus-groovy-junit5-version>
+		<quarkus-groovy-junit5-version>3.22.1</quarkus-groovy-junit5-version>
 		<fj-service-helper-version>1.4.5</fj-service-helper-version>
 		<!-- deprecated modules -->
 		<fj-doc-mod-jxl-version>1.1.0-sa.1</fj-doc-mod-jxl-version>
