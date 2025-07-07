@@ -46,7 +46,6 @@
 
 	<modules>
 		<module>fj-universe-tool</module>
-		<module>fj-universe-quarkus</module>
 		<module>fj-universe-test</module>
 	</modules>
 
