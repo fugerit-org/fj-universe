@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- fj-bom parent 2.0.2
+- fj-version set to 8.7.0
+- fj-doc-version set to 8.13.14
+- quarkus-groovy-junit5-version set to 3.24.2
+
 ## [2.4.5] - 2025-04-29
 
 ### Changed
