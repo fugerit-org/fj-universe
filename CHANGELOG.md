@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - fj-bom parent 2.0.5
+- fj-doc-version set to 8.16.2
 - deprecation of yaml-doc-tool-version
 
 ## [3.0.0] - 2025-07-07
