@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.fugerit.java.universe</groupId>
 		<artifactId>fj-universe</artifactId>
-		<version>3.0.1-SNAPSHOT</version>
+		<version>3.1.0</version>
 	</parent>
 
 	<artifactId>fj-universe-tool</artifactId>
