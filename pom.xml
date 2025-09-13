@@ -29,7 +29,10 @@
 		<fj-tool-helper-version>1.0.0</fj-tool-helper-version>
 		<fj-xml-to-json-version>1.2.1</fj-xml-to-json-version>
 		<fj-i18n-xml-helper-version>2.0.1</fj-i18n-xml-helper-version>
+        <!-- deprecated repository, https://github.com/fugerit-org/yaml-doc-tool -->
 		<yaml-doc-tool-version>1.0.3</yaml-doc-tool-version>
+        <!-- substituted by https://github.com/fugerit-org/openapi-doc-tool -->
+        <openapi-doc-tool-version>2.0.0</openapi-doc-tool-version>
 		<github-issue-export-version>1.2.0</github-issue-export-version>
 		<native-helper-graalvm-version>1.4.6</native-helper-graalvm-version>
 		<fj-script-helper-version>2.0.3</fj-script-helper-version>
@@ -293,6 +296,11 @@
 				<artifactId>yaml-doc-tool</artifactId>
 				<version>${yaml-doc-tool-version}</version>
 			</dependency>
+            <dependency>
+                <groupId>org.fugerit.java</groupId>
+                <artifactId>openapi-doc-tool</artifactId>
+                <version>${openapi-doc-tool-version}</version>
+            </dependency>
 			<dependency>
 				<groupId>org.fugerit.java</groupId>
 				<artifactId>github-issue-export</artifactId>

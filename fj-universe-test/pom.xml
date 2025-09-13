@@ -168,10 +168,10 @@
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-i18n-xml-helper</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.fugerit.java</groupId>
-			<artifactId>yaml-doc-tool</artifactId>
-		</dependency>
+        <dependency>
+            <groupId>org.fugerit.java</groupId>
+            <artifactId>openapi-doc-tool</artifactId>
+        </dependency>
 		<dependency>
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>github-issue-export</artifactId>
@@ -186,6 +186,10 @@
 			<groupId>org.fugerit.java</groupId>
 			<artifactId>fj-doc-mod-jxl</artifactId>
 		</dependency>
+        <dependency>
+            <groupId>org.fugerit.java</groupId>
+            <artifactId>yaml-doc-tool</artifactId>
+        </dependency>
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>
