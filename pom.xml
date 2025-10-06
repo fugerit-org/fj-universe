@@ -32,7 +32,7 @@
         <!-- deprecated repository, https://github.com/fugerit-org/yaml-doc-tool -->
 		<yaml-doc-tool-version>1.0.3</yaml-doc-tool-version>
         <!-- substituted by https://github.com/fugerit-org/openapi-doc-tool -->
-        <openapi-doc-tool-version>2.0.0</openapi-doc-tool-version>
+        <openapi-doc-tool-version>2.1.1</openapi-doc-tool-version>
 		<github-issue-export-version>1.2.0</github-issue-export-version>
 		<native-helper-graalvm-version>1.4.6</native-helper-graalvm-version>
 		<fj-script-helper-version>2.0.3</fj-script-helper-version>
