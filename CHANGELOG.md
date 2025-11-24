@@ -7,13 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [3.1.0] - 2025-09-13
+## [3.1.1] - 2025-11-24
 
 ### Changed
 
 - fj-version se to 8.7.3
 - fj-doc-version set to 8.17.7 (added module fj-doc-val-imageio)
 - fj-daogen-version set to 1.9.0
+
+## [3.1.0] - 2025-09-13
 
 ### Added
 
