@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [3.1.0] - 2025-09-13
 
+### Changed
+
+- fj-version se to 8.7.3
+- fj-doc-version set to 8.17.7 (added module fj-doc-val-imageio)
+- fj-daogen-version set to 1.9.0
+
 ### Added
 
 - openapi-doc-tool-version 2.0.0

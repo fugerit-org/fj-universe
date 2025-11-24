@@ -236,6 +236,11 @@
 				<artifactId>fj-doc-val-poi</artifactId>
 				<version>${fj-doc-version}</version>
 			</dependency>
+            <dependency>
+                <groupId>org.fugerit.java</groupId>
+                <artifactId>fj-doc-val-imageio</artifactId>
+                <version>${fj-doc-version}</version>
+            </dependency>
 			
 			<!-- dependencies from fj-daogen : https://github.com/fugerit-org/fj-daogen -->
 			<dependency>
