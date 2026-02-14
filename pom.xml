@@ -27,7 +27,7 @@
 		<query-export-tool-version>1.2.0</query-export-tool-version>
 		<fj-tool-util-version>1.2.0</fj-tool-util-version>
 		<fj-tool-helper-version>1.0.0</fj-tool-helper-version>
-		<fj-xml-to-json-version>1.2.1</fj-xml-to-json-version>
+		<fj-xml-to-json-version>1.2.2</fj-xml-to-json-version>
 		<fj-i18n-xml-helper-version>2.0.1</fj-i18n-xml-helper-version>
         <!-- deprecated repository, https://github.com/fugerit-org/yaml-doc-tool -->
 		<yaml-doc-tool-version>1.0.3</yaml-doc-tool-version>
