@@ -175,7 +175,12 @@
 				<groupId>org.fugerit.java</groupId>
 				<artifactId>fj-doc-mod-fop</artifactId>
 				<version>${fj-doc-version}</version>
-			</dependency>	
+			</dependency>
+			<dependency>
+				<groupId>org.fugerit.java</groupId>
+				<artifactId>fj-doc-mod-pdfbox</artifactId>
+				<version>${fj-doc-version}</version>
+			</dependency>
 			<dependency>
 				<groupId>org.fugerit.java</groupId>
 				<artifactId>fj-doc-mod-poi</artifactId>
