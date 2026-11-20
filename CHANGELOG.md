@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- fj-doc-version set to 8.18.8 (better support in fj-doc-mod-pdfbox)
+
 ## [3.1.2] - 2026-05-19
 
 ### Changed
